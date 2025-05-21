@@ -1629,18 +1629,18 @@ button.list-group-item-danger.active:hover {
 }
 @font-face {
     font-family: rubik;
-    src: url(../fonts/Rubik-VariableFont_wght.ttf);
+    src: url(fonts/Rubik-VariableFont_wght.ttf);
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
-    font-family: Rubik light;
-    src: url(../fonts/Rubik-VariableFont_wght.ttf);
+    font-family: rubik;
+    src: url(fonts/Rubik-VariableFont_wght.ttf);
     font-weight: 400;
     font-style: normal;
 }
 body {
-    font: normal normal normal 20px/36px Rubik light, helvetica, sans-serif;
+    font: normal normal normal 20px/36px rubik, helvetica, sans-serif;
     letter-spacing: -0.015em;
     color: #293137;
     -webkit-transition: all 0.6s;
@@ -1658,7 +1658,7 @@ a:hover {
 }
 .h1,
 h1 {
-    font: bold bold bold 66px/84px Rubik, helvetica, sans-serif;
+    font: bold bold bold 66px/84px rubik, helvetica, sans-serif;
     letter-spacing: -0.05em;
 }
 h1 {
@@ -1676,7 +1676,7 @@ h2 {
 }
 h2,
 h3 {
-    font: normal normal normal 20px/36px Rubik, helvetica, sans-serif;
+    font: normal normal normal 20px/36px rubik, helvetica, sans-serif;
     letter-spacing: -0.015em;
 }
 p {
@@ -1686,7 +1686,7 @@ ul {
     list-style-type: disc;
 }
 .eyebrow {
-    font: normal normal normal 14px/24px Rubik light, helvetica, sans-serif;
+    font: normal normal normal 14px/24px rubik, helvetica, sans-serif;
 }
 header {
     margin-top: 213px;
@@ -1695,7 +1695,7 @@ section {
     margin-bottom: 78px;
 }
 #writinglinks h3 {
-    font: normal normal normal 14px/24px Rubik light, helvetica, sans-serif;
+    font: normal normal normal 14px/24px rubik, helvetica, sans-serif;
     text-transform: uppercase;
     padding-top: 4px;
 }
@@ -1755,7 +1755,7 @@ section {
 @media (min-width: 768px) {
     .h1,
     h1 {
-        font: normal normal normal 79px/96px Rubik, helvetica, sans-serif;
+        font: normal normal normal 79px/96px rubik, helvetica, sans-serif;
         letter-spacing: -0.03em;
     }
     .h1 {
@@ -1766,7 +1766,7 @@ section {
     }
     h2,
     h3 {
-        font: normal normal normal 20px/36px Rubik, helvetica, sans-serif;
+        font: normal normal normal 20px/36px rubik, helvetica, sans-serif;
     }
     h3 {
         margin-bottom: 4px;
@@ -1776,7 +1776,7 @@ section {
     }
     #social,
     .aside {
-        font: normal normal normal 16px/26px Rubik, helvetica, sans-serif;
+        font: normal normal normal 16px/26px rubik, helvetica, sans-serif;
     }
     .introCopy {
         position: relative;
@@ -1787,7 +1787,7 @@ section {
     }
     #writinglinks a,
     #writinglinks h3 {
-        font: normal normal normal 16px/26px Rubik, helvetica, sans-serif;
+        font: normal normal normal 16px/26px rubik, helvetica, sans-serif;
     }
     #writinglinks a {
         margin-bottom: 36px;
@@ -1804,11 +1804,11 @@ section {
 }
 @media (min-width: 992px) {
     body {
-        font: normal normal normal 24px/39px Rubik, helvetica, sans-serif;
+        font: normal normal normal 24px/39px rubik, helvetica, sans-serif;
     }
     .h1,
     h1 {
-        font: ExtraBold ExtraBold ExtraBold 100px/117px Rubik, helvetica, sans-serif;
+        font: ExtraBold ExtraBold ExtraBold 100px/117px rubik, helvetica, sans-serif;
         letter-spacing: -0.03em;
         margin-bottom: 88px;
     }
@@ -1817,7 +1817,7 @@ section {
     }
     h2,
     h3 {
-        font: normal normal normal 24px/39px Rubik, helvetica, sans-serif;
+        font: normal normal normal 24px/39px rubik, helvetica, sans-serif;
     }
     header {
         margin-top: 226px;
